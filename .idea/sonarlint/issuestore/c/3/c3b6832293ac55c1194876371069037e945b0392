@@ -1,0 +1,9 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì¹Ñîøÿÿÿÿ8‘²åé—1
+y
+java:S1450"WRemove the "lastName" field and declare it as a local variable in the relevant methods.(ºàÑïúÿÿÿÿ8ûåé—1
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(½¦ÿÿÿÿÿ8¾¸ßé—1
+N
+java:S1068",Remove this unused "lastName" private field.(ºàÑïúÿÿÿÿ8€Ÿåé—1
